@@ -7,7 +7,7 @@ import com.yihuisort.entity.Student;
 public class Che {
 		public static Boolean valueOf(boolean b)
 		{
-			String a=10;
+			String a=20;
 			return b ? Boolean.TRUE : Boolean.FALSE;
 		}
 		
